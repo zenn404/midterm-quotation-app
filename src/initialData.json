@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "item": "Product B",
+    "pricePerUnit": 200.00,
+    "quantity": 1,
+    "discount": 0
+  },
+  {
+    "id": 2,
+    "item": "Product B",
+    "pricePerUnit": 200.00,
+    "quantity": 10,
+    "discount": 0
+  },
+  {
+    "id": 3,
+    "item": "Product B",
+    "pricePerUnit": 200.00,
+    "quantity": 10,
+    "discount": 0
+  }
+]
